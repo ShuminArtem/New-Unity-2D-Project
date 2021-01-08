@@ -17,6 +17,5 @@ The structure of the game states of my project:
  
  The resources with which I created the game:
  
- - Complete C# Unity Game Developer 2D
+ - [Complete C# Unity Game Developer 2D](https://www.udemy.com/course/unitycourse/)
  
-  Link  :https://www.udemy.com/course/unitycourse/
